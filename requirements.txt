@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-openai
-httpx
-itsdangerous
-email-validator
-mangum
